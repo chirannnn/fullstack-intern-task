@@ -528,9 +528,9 @@ Check the deployment with `https://<your-api>.onrender.com/api/health`. It shoul
 
 ## Author
 
-- **Name:** _Your Name_
-- **Email:** _your.email@example.com_
-- **GitHub:** _https://github.com/your-username_
-- **LinkedIn:** _https://www.linkedin.com/in/your-profile_
+- **Name:** _Chiranjeevi D_
+- **Email:** _chiranjeevid011@gmail.com_
+- **GitHub:** _https://github.com/chirannnn_
+- **LinkedIn:** _https://www.linkedin.com/in/chiranjeevi-d_
 
 Built as a full-stack internship assignment.
