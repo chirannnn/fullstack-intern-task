@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+npm-debug.log*
+.vercel
+
+# Secrets and local configuration never go into the image.
+.env
+.env.*
+
+Dockerfile
+.dockerignore

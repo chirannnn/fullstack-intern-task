@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log*
+coverage
+
+# Secrets and local configuration never go into the image.
+.env
+.env.*
+
+Dockerfile
+.dockerignore
